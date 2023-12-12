@@ -1,0 +1,7 @@
+{
+  "editor.rulers": [120],
+  "editor.tabSize": 3,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "cmake.configureOnOpen": false
+}
